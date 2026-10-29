@@ -6,7 +6,7 @@ export const portfolioData = {
     subheadline: "Student | Aspiring Software Developer",
     tagline: "Building digital experiences through curiosity, code, and continuous learning.",
     shortBio:
-      "I'm passionate about technology, programming, and building useful digital experiences. I'm continuously learning new skills and working on projects to improve my development abilities.",
+      " i just want to studyy!!!!",
     status: {
       available: true,
       badgeText: "Student & Aspiring Developer",
